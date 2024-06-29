@@ -1,5 +1,11 @@
 # Data Cleaning Script In R For A Workshop Example
 
+## Badges
+
+![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg) <!-- License: CC BY-SA 4.0 -->
+![Downloads](https://img.shields.io/github/downloads/lebriggs/analysis-plan-canva/total.svg) <!-- Total Downloads -->
+![Last Commit](https://img.shields.io/github/last-commit/lebriggs/analysis-plan-canva.svg) <!-- Last Commit -->
+
 ## Author
 
 * Laura Briggs
@@ -40,10 +46,10 @@ These outcomes guided the design and implementation of the R script provided in 
 
 Visit [A Data Pre-Analysis Plan Using Canva](https://lebriggs.com/talk/dataplan/) to access the accompanying workshop resources including:
 
-* instructions for the workshop
-* presentation slides
+* Instructions for the workshop
+* Presentation slides
 * Canva whiteboard
-* canine health dataset consisting of a male German Shepherd Dog's offspring data
+* Canine health dataset consisting of a male German Shepherd Dog's offspring data
 
 ## Version Of R
 
@@ -95,15 +101,9 @@ For more details, refer to the detailed comments in the script file.
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
-## Badges
-
-![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg) <!-- License: CC BY-SA 4.0 -->
-![Downloads](https://img.shields.io/github/downloads/lebriggs/analysis-plan-canva/total.svg) <!-- Total Downloads -->
-![Last Commit](https://img.shields.io/github/last-commit/lebriggs/analysis-plan-canva.svg) <!-- Last Commit -->
+* This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Contact Laura
 
-* For questions, feedback, or further information about the workshop or this repository, please [contact me](https://lebriggs.com/contact/.
+* For questions, feedback, or further information about the workshop or this repository, please [contact me](https://lebriggs.com/contact/).
 
