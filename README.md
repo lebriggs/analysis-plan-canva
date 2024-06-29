@@ -1,11 +1,14 @@
 # Data Cleaning Script In R For A Workshop Example
 
-## Badges
+## Project Activity
 
-![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg) <!-- License: CC BY-SA 4.0 -->
-![Language](https://img.shields.io/badge/Language-R-blue.svg) <!-- Language: R -->
-![Downloads](https://img.shields.io/github/downloads/lebriggs/analysis-plan-canva/total.svg) <!-- Total Downloads -->
 ![Last Commit](https://img.shields.io/github/last-commit/lebriggs/analysis-plan-canva.svg) <!-- Last Commit -->
+![Downloads](https://img.shields.io/github/downloads/lebriggs/analysis-plan-canva/total.svg) <!-- Total Downloads -->
+
+## Project Information
+
+![Language](https://img.shields.io/badge/Language-R-blue.svg) <!-- Language: R -->
+![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg) <!-- License: CC BY-SA 4.0 -->
 
 ## Author
 
