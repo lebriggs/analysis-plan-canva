@@ -1,4 +1,4 @@
-# Data Cleaning Script In R For A Workshop Example
+# Data Cleaning Script In R For A Workshop
 
 ## Project Activity
 
