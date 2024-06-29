@@ -49,7 +49,7 @@ Visit [A Data Pre-Analysis Plan Using Canva](https://lebriggs.com/talk/dataplan/
 * Instructions for the workshop
 * Presentation slides
 * Canva whiteboard
-* Canine health dataset consisting of a male German Shepherd Dog's offspring data
+* Canine health dataset featuring offspring data from Nero vom Buchonia, a male German Shepherd Dog
 
 ## Version Of R
 
@@ -97,7 +97,7 @@ For more details, refer to the detailed comments in the script file.
 
 ## Credit
 
-* Thank you to Jennifer Lee for providing the canine health data to support student learning. Ms. Lee is Nero vom Buchonia's owner.
+* Thank you to Jennifer Lee for providing the canine health data to support student learning. Ms. Lee is the owner of Nero vom Buchonia.
 
 ## License
 
